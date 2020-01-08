@@ -1,0 +1,110 @@
+                     a                     b
+0        Chelsea Rider             Joe Rogan
+1          Katy DeLeon  Predictive Analytics
+2  Computational Legal        Andrew Bridges
+3       Leigh Cressman  Predictive Analytics
+4      Jacques de Vrij     James D. Williams
+30519
+29210
+Predictive Analytics    16753
+Computational Legal      7096
+Chelsea Rider            2607
+Legal Tracker            1847
+James D. Williams        1696
+Strathclyde U IT Law      429
+Johnny Halftime            57
+Biyu Hua                   29
+Sue Ellen Soussloff        13
+NaN                         5
+
+[('Predictive Analytics', 0.5735560957239207), ('Computational Legal', 0.24293882022664248), ('Chelsea Rider', 0.08925331233523914), ('Legal Tracker', 0.06323393474613989), ('James D. Williams', 0.05806429525146359), ('Strathclyde U IT Law', 0.014687253928583655), ('Johnny Halftime', 0.0019514533191824438), ('Biyu Hua', 0.0009928446711629977), ('Sue Ellen Soussloff', 0.0004450683008661714), (nan, 0.00017118011571775824)]
+480
+161
+                     a                     b
+0        Chelsea Rider             Joe Rogan
+1          Katy DeLeon  Predictive Analytics
+2  Computational Legal        Andrew Bridges
+3       Leigh Cressman  Predictive Analytics
+4      Jacques de Vrij     James D. Williams
+30519
+29210
+Predictive Analytics    16753
+Computational Legal      7096
+Chelsea Rider            2607
+Legal Tracker            1847
+James D. Williams        1696
+Strathclyde U IT Law      429
+Johnny Halftime            57
+Biyu Hua                   29
+Sue Ellen Soussloff        13
+NaN                         5
+
+[('Predictive Analytics', 0.5735560957239207), ('Computational Legal', 0.24293882022664248), ('Chelsea Rider', 0.08925331233523914), ('Legal Tracker', 0.06323393474613989), ('James D. Williams', 0.05806429525146359), ('Strathclyde U IT Law', 0.014687253928583655), ('Johnny Halftime', 0.0019514533191824438), ('Biyu Hua', 0.0009928446711629977), ('Sue Ellen Soussloff', 0.0004450683008661714), (nan, 0.00017118011571775824)]
+480
+161
+                     a                     b
+0        Chelsea Rider             Joe Rogan
+1          Katy DeLeon  Predictive Analytics
+2  Computational Legal        Andrew Bridges
+3       Leigh Cressman  Predictive Analytics
+4      Jacques de Vrij     James D. Williams
+30519
+29210
+Predictive Analytics    16753
+Computational Legal      7096
+Chelsea Rider            2607
+Legal Tracker            1847
+James D. Williams        1696
+Strathclyde U IT Law      429
+Johnny Halftime            57
+Biyu Hua                   29
+Sue Ellen Soussloff        13
+NaN                         5
+
+[('Predictive Analytics', 0.5735560957239207), ('Computational Legal', 0.24293882022664248), ('Chelsea Rider', 0.08925331233523914), ('Legal Tracker', 0.06323393474613989), ('James D. Williams', 0.05806429525146359), ('Strathclyde U IT Law', 0.014687253928583655), ('Johnny Halftime', 0.0019514533191824438), ('Biyu Hua', 0.0009928446711629977), ('Sue Ellen Soussloff', 0.0004450683008661714), (nan, 0.00017118011571775824)]
+480
+161
+                     a                     b
+0        Chelsea Rider             Joe Rogan
+1          Katy DeLeon  Predictive Analytics
+2  Computational Legal        Andrew Bridges
+3       Leigh Cressman  Predictive Analytics
+4      Jacques de Vrij     James D. Williams
+30519
+29210
+Predictive Analytics    16753
+Computational Legal      7096
+Chelsea Rider            2607
+Legal Tracker            1847
+James D. Williams        1696
+Strathclyde U IT Law      429
+Johnny Halftime            57
+Biyu Hua                   29
+Sue Ellen Soussloff        13
+NaN                         5
+
+[('Predictive Analytics', 0.5735560957239207), ('Computational Legal', 0.24293882022664248), ('Chelsea Rider', 0.08925331233523914), ('Legal Tracker', 0.06323393474613989), ('James D. Williams', 0.05806429525146359), ('Strathclyde U IT Law', 0.014687253928583655), ('Johnny Halftime', 0.0019514533191824438), ('Biyu Hua', 0.0009928446711629977), ('Sue Ellen Soussloff', 0.0004450683008661714), (nan, 0.00017118011571775824)]
+480
+161
+                     a                     b
+0        Chelsea Rider             Joe Rogan
+1          Katy DeLeon  Predictive Analytics
+2  Computational Legal        Andrew Bridges
+3       Leigh Cressman  Predictive Analytics
+4      Jacques de Vrij     James D. Williams
+30519
+29210
+Predictive Analytics    16753
+Computational Legal      7096
+Chelsea Rider            2607
+Legal Tracker            1847
+James D. Williams        1696
+Strathclyde U IT Law      429
+Johnny Halftime            57
+Biyu Hua                   29
+Sue Ellen Soussloff        13
+NaN                         5
+
+[('Predictive Analytics', 0.5735560957239207), ('Computational Legal', 0.24293882022664248), ('Chelsea Rider', 0.08925331233523914), ('Legal Tracker', 0.06323393474613989), ('James D. Williams', 0.05806429525146359), ('Strathclyde U IT Law', 0.014687253928583655), ('Johnny Halftime', 0.0019514533191824438), ('Biyu Hua', 0.0009928446711629977), ('Sue Ellen Soussloff', 0.0004450683008661714), (nan, 0.00017118011571775824)]
+480
+161

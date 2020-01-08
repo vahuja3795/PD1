@@ -1,0 +1,45 @@
+                     a                     b
+0        Chelsea Rider             Joe Rogan
+1          Katy DeLeon  Predictive Analytics
+2  Computational Legal        Andrew Bridges
+3       Leigh Cressman  Predictive Analytics
+4      Jacques de Vrij     James D. Williams
+30519
+29210
+Predictive Analytics    16753
+Computational Legal      7096
+Chelsea Rider            2607
+Legal Tracker            1847
+James D. Williams        1696
+Strathclyde U IT Law      429
+Johnny Halftime            57
+Biyu Hua                   29
+Sue Ellen Soussloff        13
+NaN                         5
+
+[('Predictive Analytics', 0.5735560957239207), ('Computational Legal', 0.24293882022664248), ('Chelsea Rider', 0.08925331233523914), ('Legal Tracker', 0.06323393474613989), ('James D. Williams', 0.05806429525146359), ('Strathclyde U IT Law', 0.014687253928583655), ('Johnny Halftime', 0.0019514533191824438), ('Biyu Hua', 0.0009928446711629977), ('Sue Ellen Soussloff', 0.0004450683008661714), (nan, 0.00017118011571775824)]
+480
+161
+88233
+87382
+2    33595
+1    31772
+3    11703
+9     4078
+4     2278
+5     1282
+6     1254
+7     1253
+8      672
+0      346
+
+[(2, 0.3844657305363866), (1, 0.3636030716059555), (3, 0.13393071720396882), (9, 0.04666918437646628), (4, 0.026069740561449284), (5, 0.014671381650473214), (6, 0.014350945857795172), (7, 0.014339501722342385), (8, 0.007690459024273011), (0, 0.003959670866664378)]
+188
+70
+
+The graph is called Social Circles: Facebook. The dataset consists 
+of 'circles' from Facebook, and all of the data has been anonymized for each 
+user with a new value. From a qualatative perspective, it would appear that 
+there are a multitude of edges in the upper right area of the graph that may 
+signify a commonality in things such as interests, political affiliation, or 
+hobbies between all of the remaining nodes.
